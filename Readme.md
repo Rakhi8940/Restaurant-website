@@ -1,13 +1,15 @@
-<p align="center">
-  <img src="https://cdn-icons-png.flaticon.com/512/3075/3075977.png" 
-       alt="Restaurant Logo" 
-       width="100" 
-       height="100" 
-       style="border-radius: 18px; horizontal-align: middle; margin-right: 32px;"/>
-  <img src="https://github.com/user-attachments/assets/4e98648a-def3-4399-9fa7-28ea29329c3e"
-       alt="Restaurant Banner"
-       width="70%"
-       style="border-radius: 14px; box-shadow: 0 2px 16px rgba(0,0,0,0.10); vertical-align: middle;"/>
+<p align="center" style="position: relative; width: 100%;">
+  <span style="position: relative; display: inline-block;">
+    <img src="https://github.com/user-attachments/assets/4e98648a-def3-4399-9fa7-28ea29329c3e"
+         alt="Restaurant Banner"
+         width="70%"
+         style="border-radius: 14px; box-shadow: 0 2px 16px rgba(0,0,0,0.10); vertical-align: middle;"/>
+    <img src="https://cdn-icons-png.flaticon.com/512/3075/3075977.png"
+         alt="Restaurant Logo"
+         width="80"
+         height="80"
+         style="position: absolute; top: 16px; left: 16px; border-radius: 18px; background: white; box-shadow: 0 2px 8px rgba(0,0,0,0.08);"/>
+  </span>
 </p>
 
 # 🍽️ Restaurant Website
