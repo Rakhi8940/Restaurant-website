@@ -1,5 +1,6 @@
 <p align="center">
-  <img src="https://em-content.zobj.net/thumbs/240/apple/354/fork-and-knife-with-plate_1f37d.png" alt="Restaurant Website Logo" width="100" height="100" style="border-radius: 18px; margin-bottom: 12px;"/>
+  <img src="![image](https://github.com/user-attachments/assets/ba6d267e-3548-49ff-ade4-c25f739dc3dd)
+" alt="" width="100" height="100" style="border-radius: 18px; margin-bottom: 12px;"/>
 </p>
 
 <p align="center">
