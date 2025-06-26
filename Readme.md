@@ -1,13 +1,12 @@
 <p align="center">
-  <img src="![image](https://github.com/user-attachments/assets/ba6d267e-3548-49ff-ade4-c25f739dc3dd)
-" alt="" width="100" height="100" style="border-radius: 18px; margin-bottom: 12px;"/>
+  <img src="https://em-content.zobj.net/thumbs/240/apple/354/fork-and-knife-with-plate_1f37d.png" alt="Restaurant Website Logo" width="100" height="100" style="border-radius: 18px; margin-bottom: 12px;"/>
 </p>
 
 <p align="center">
-  <img src="https://images.unsplash.com/photo-1504674900247-0877df9cc836?auto=format&fit=crop&w=900&q=80" 
-       alt="Elegant Restaurant Banner" 
-       width="90%" 
-       style="border-radius: 14px; box-shadow: 0 2px 16px rgba(0,0,0,0.10); margin-bottom: 20px;"/>
+  <img src="https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=1000&q=80" 
+       alt="Restaurant Banner"
+       width="100%"
+       style="max-width: 900px; border-radius: 14px; box-shadow: 0 2px 16px rgba(0,0,0,0.10); margin-bottom: 20px;" />
 </p>
 
 # 🍽️ Restaurant Website
@@ -38,111 +37,6 @@ A visually striking, fully responsive **Restaurant Website** crafted with **HTML
 ## 🖼️ Preview
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/9d697587-1689-49f8-9dfe-213a5ce2821f" width="420" height="auto" alt="Restaurant Website Screenshot 1" style="border-radius: 10px; box-shadow: 0 2px 12px rgba(0,0,0,0.10); margin-bottom: 14px;" />
-  <img src="https://github.com/user-attachments/assets/24f0c344-5e7f-4d0f-b979-9f5337c19297" width="420" height="auto" alt="Restaurant Website Screenshot 2" style="border-radius: 10px; box-shadow: 0 2px 12px rgba(0,0,0,0.10);" />
-</p>
-
----
-
-## ✨ Features At a Glance
-
-- 🖥️ **Elegant Layout**: Clean, modern homepage with hero imagery and restaurant branding.
-- 🍕 **Dynamic Menu**: Filterable or categorized food & drinks section with prices, images, and descriptions.
-- 📱 **Mobile-First Design**: Optimized for all screen sizes; sticky/toggle nav for mobile.
-- 📝 **Contact & Booking Forms**: User-friendly, animated forms for reservation and inquiries.
-- 📷 **Gallery**: Interactive food/ambiance gallery with hover and/or lightbox effect.
-- 🔼 **Smooth UX**: Scroll-to-top button, animated page transitions, and section reveals.
-- ☎️ **Quick Contact**: Ready for WhatsApp/phone integration (future feature).
-- 🌙 **Dark Mode**: Optional toggle for night-friendly browsing (future enhancement).
-- 🌐 **Easy to Customize**: Simple HTML structure, modular CSS, and well-commented JavaScript.
-
----
-
-## 🛠️ Technologies Used
-
-| Technology             | Purpose                                    |
-|------------------------|--------------------------------------------|
-| **HTML5**              | Semantic page structure & accessibility    |
-| **CSS3**               | Styling, layout, animations, responsiveness|
-| **JavaScript (ES6)**   | Navigation, menu interactions, DOM control |
-| **Google Fonts / FontAwesome** | Typography & icons                |
-
----
-
-## 📄 Website Structure
-
-- **Header:** Logo, sticky navigation (hamburger menu for mobile)
-- **Hero Section:** Eye-catching welcome message and tagline
-- **About Us:** Restaurant story, chef profile, or vision
-- **Menu:** Categorized listing with dish images, prices, and descriptions
-- **Gallery:** Grid of high-quality images (dishes/ambiance/events)
-- **Booking/Reservation Form:** Simple, client-side form (extendable to backend)
-- **Contact Us:** Address, map, opening hours, contact form, and social links
-- **Footer:** Copyright, social media, and quick links
-
----
-
-## 🎨 UI/UX Details
-
-- **Animations:** Smooth fade-ins, slide-ins, and hover effects
-- **Responsiveness:** Layout shifts gracefully, buttons are touch-friendly, and text is readable on all devices
-- **Accessibility:** Proper HTML semantics, alt text for images, labeled form fields
-- **Consistent branding:** Colors, fonts, and icons match restaurant theme
-
----
-
-## 📈 How To Use
-
-1. **Clone the repository:**
-   ```bash
-   git clone https://github.com/YourUsername/restaurant-website.git
-   ```
-2. **Navigate to the project folder:**
-   ```bash
-   cd restaurant-website
-   ```
-3. **Open `index.html`** in your browser and explore!
-
-_No frameworks or build tools required. All assets are static and ready-to-use._
-
----
-
-## 🌱 Future Improvements
-
-- 📬 **Backend Integration**: Connect contact and booking forms to services like Firebase, Formspree, or custom backend
-- 🍔 **Menu Filtering**: Enable live filtering or search by category/allergy/price
-- 📲 **Quick Contact**: WhatsApp/call button for instant booking
-- 🌐 **Multilingual Support**: Add language switcher for global reach
-- 🌙 **Dark Mode Toggle**: User-selectable light/dark theme
-- 💾 **CMS Integration**: Connect to WordPress headless, Contentful, or other CMS for easy content updates
-- 🏆 **SEO Optimization**: Add meta tags and schema for better search ranking
-- 🧑‍⚕️ **Accessibility Enhancements**: ARIA roles, tab navigation, color-blind modes
-
----
-
-## 🗂️ Project Structure
-
-```
-restaurant-website/
-├── index.html
-├── style.css
-├── script.js
-├── images/
-│   └── (all image assets)
-└── README.md
-```
-
----
-
-## 👨‍🍳 Author
-
-Designed and developed with ❤️ by **Rakhi Yadav**  
-If you enjoyed this project, please ⭐️ star, fork, and contribute!  
-Feedback and suggestions are always welcome.
-
----
-
-<p align="center">
-  <b>Bon appétit!</b><br>
-  <i>Elevate your restaurant’s online presence with elegance & simplicity.</i>
+  <img src="https://github.com/user-attachments/assets/9d697587-1689-49f8-9dfe-213a5ce2821f" width="350" alt="Restaurant Website Screenshot 1" style="border-radius: 10px; box-shadow: 0 2px 12px rgba(0,0,0,0.10); margin-bottom: 14px;"/>
+  <img src="https://github.com/user-attachments/assets/24f0c344-5e7f-4d0f-b979-9f5337c19297" width="350" alt="Restaurant Website Screenshot 2" style="border-radius: 10px; box-shadow: 0 2px 12px rgba(0,0,0,0.10);"/>
 </p>
