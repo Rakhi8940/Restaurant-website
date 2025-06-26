@@ -3,8 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="![image](https://github.com/user-attachments/assets/651b429a-fa96-4ac2-b0b7-53a3a6dfb06e)
-" 
+  <img src="https://images.unsplash.com/photo-1504674900247-0877df9cc836?auto=format&fit=crop&w=1000&q=80"
        alt="Restaurant Banner"
        width="92%" 
        style="border-radius: 14px; box-shadow: 0 2px 16px rgba(0,0,0,0.10); margin-bottom: 24px;"/>
