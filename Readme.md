@@ -1,12 +1,11 @@
-<div align="center" style="display: flex; align-items: center; gap: 24px;">
-
-  <img src="https://cdn-icons-png.flaticon.com/512/3075/3075977.png" alt="Restaurant Logo" width="80" height="80" style="border-radius: 18px; margin-right: 20px;"/>
-
+<p align="center">
+  <img src="https://cdn-icons-png.flaticon.com/512/3075/3075977.png" alt="Restaurant Logo" width="100" height="100" style="border-radius: 18px; vertical-align: middle;"/>
+  &nbsp;&nbsp;
   <img src="https://github.com/user-attachments/assets/4e98648a-def3-4399-9fa7-28ea29329c3e"
        alt="Restaurant Banner"
-       width="64%"
-       style="border-radius: 14px; box-shadow: 0 2px 16px rgba(0,0,0,0.10);"/>
-</div>
+       width="70%"
+       style="border-radius: 14px; box-shadow: 0 2px 16px rgba(0,0,0,0.10); vertical-align: middle;"/>
+</p>
 
 # 🍽️ Restaurant Website
 
