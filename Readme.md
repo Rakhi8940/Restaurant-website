@@ -3,11 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="![Uploading image.jpg…]()
-![Uploading image.jpg…]()
-![Uploading image.jpg…]()
-![Uploading image.jpg…]()
-"
+  <img src="![image](https://github.com/user-attachments/assets/4e98648a-def3-4399-9fa7-28ea29329c3e)"
        alt="Restaurant Banner"
        width="92%"
        style="border-radius: 14px; box-shadow: 0 2px 16px rgba(0,0,0,0.10); margin-bottom: 24px;"/>
