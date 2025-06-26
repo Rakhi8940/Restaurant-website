@@ -1,6 +1,9 @@
 <p align="center">
-  <img src="https://cdn-icons-png.flaticon.com/512/3075/3075977.png" alt="Restaurant Logo" width="100" height="100" style="border-radius: 18px; vertical-align: middle;"/>
-  &nbsp;&nbsp;
+  <img src="https://cdn-icons-png.flaticon.com/512/3075/3075977.png" 
+       alt="Restaurant Logo" 
+       width="100" 
+       height="100" 
+       style="border-radius: 18px; vertical-align: middle; margin-right: 32px;"/>
   <img src="https://github.com/user-attachments/assets/4e98648a-def3-4399-9fa7-28ea29329c3e"
        alt="Restaurant Banner"
        width="70%"
