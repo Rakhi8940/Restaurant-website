@@ -6,7 +6,7 @@
        style="border-radius: 18px; vertical-align: top;"/>
   <img src="https://github.com/user-attachments/assets/4e98648a-def3-4399-9fa7-28ea29329c3e"
        alt="Restaurant Banner"
-       width="70%"
+       width="50%"
        style="border-radius: 14px; box-shadow: 0 2px 16px rgba(0,0,0,0.10); vertical-align: top;"/>
   &nbsp;&nbsp;&nbsp;&nbsp;
   
