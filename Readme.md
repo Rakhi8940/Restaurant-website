@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://em-content.zobj.net/thumbs/240/apple/354/fork-and-knife-with-plate_1f37d.png" alt="Restaurant Website Logo" width="90" height="90" style="border-radius: 16px; margin-bottom: 12px;"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/3075/3075977.png" alt="Restaurant Logo" width="100" height="100" style="border-radius: 18px; margin-bottom: 12px;"/>
 </p>
 
 <p align="center">
@@ -27,6 +27,12 @@ A visually striking, fully responsive **Restaurant Website** crafted with **HTML
 
 ---
 
+## 🚀 Live Demo
+
+🌐 [View Live Demo](#)  
+*(Replace with your GitHub Pages or Netlify deployment link)*
+
+---
 
 ## 🖼️ Preview
 
