@@ -3,9 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="![image](https://github.com/user-attachments/assets/6ea10e20-9733-46af-b673-e6b4714b047d)
-![image](https://github.com/user-attachments/assets/6ea10e20-9733-46af-b673-e6b4714b047d)
-" 
+  <img src="image1" 
        alt="Restaurant Banner"
        width="92%" 
        style="border-radius: 14px; box-shadow: 0 2px 16px rgba(0,0,0,0.10); margin-bottom: 24px;"/>
@@ -28,7 +26,6 @@ A visually striking, fully responsive **Restaurant Website** crafted with **HTML
 - **Rich UI details**: Animations, transitions, and iconography
 
 ---
-
 
 ## 🖼️ Preview
 
