@@ -1,5 +1,12 @@
 <p align="center">
-  <img src="https://em-content.zobj.net/thumbs/240/apple/354/fork-and-knife-with-plate_1f37d.png" alt="Restaurant Website Logo" width="110" height="110" style="border-radius: 18px; margin-bottom: 16px;"/>
+  <img src="https://em-content.zobj.net/thumbs/240/apple/354/fork-and-knife-with-plate_1f37d.png" alt="Restaurant Website Logo" width="100" height="100" style="border-radius: 18px; margin-bottom: 12px;"/>
+</p>
+
+<p align="center">
+  <img src="https://images.unsplash.com/photo-1504674900247-0877df9cc836?auto=format&fit=crop&w=900&q=80" 
+       alt="Elegant Restaurant Banner" 
+       width="90%" 
+       style="border-radius: 14px; box-shadow: 0 2px 16px rgba(0,0,0,0.10); margin-bottom: 20px;"/>
 </p>
 
 # 🍽️ Restaurant Website
@@ -30,11 +37,9 @@ A visually striking, fully responsive **Restaurant Website** crafted with **HTML
 ## 🖼️ Preview
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/9d697587-1689-49f8-9dfe-213a5ce2821f" width="700" alt="Restaurant Website Screenshot 1" style="border-radius: 12px; box-shadow: 0 2px 12px rgba(0,0,0,0.10);" />
-  <img src="https://github.com/user-attachments/assets/24f0c344-5e7f-4d0f-b979-9f5337c19297" width="700" alt="Restaurant Website Screenshot 2" style="border-radius: 12px; box-shadow: 0 2px 12px rgba(0,0,0,0.10);" />
+  <img src="https://github.com/user-attachments/assets/9d697587-1689-49f8-9dfe-213a5ce2821f" width="420" height="auto" alt="Restaurant Website Screenshot 1" style="border-radius: 10px; box-shadow: 0 2px 12px rgba(0,0,0,0.10); margin-bottom: 14px;" />
+  <img src="https://github.com/user-attachments/assets/24f0c344-5e7f-4d0f-b979-9f5337c19297" width="420" height="auto" alt="Restaurant Website Screenshot 2" style="border-radius: 10px; box-shadow: 0 2px 12px rgba(0,0,0,0.10);" />
 </p>
-
-> _Replace with real screenshots or an animated GIF of the homepage for best results!_
 
 ---
 
